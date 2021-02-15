@@ -1,4 +1,4 @@
 # Xtage21
-App Web con funcionalidades tipo Netflix
+Plataforma online para reproducción de clásicos del cine.
 
-Utilizando Python, Django y Postgres
+
